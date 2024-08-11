@@ -40,3 +40,5 @@ This is my first time doing a blog. The aim with these blogs is to maintain a co
 Also, I figure I should shoutout a song I really like this month, maybe it'll be a good nugget for my future self or any crazy people who read these...
 
 {% include embed/youtube.html id='SEXZai09LxI' %}
+
+{% include utterances.html %}
