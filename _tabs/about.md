@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Focused on creating memorable 2D video games." Indie game developers based in Toronto, Canada with help from collaborators from around the globe.
+Focused on creating memorable 2D video games. Indie game developers based in Toronto, Canada with help from collaborators from around the globe.
 
 Games Created so Far, in reverse chronological order:
 - Charles the Bee
