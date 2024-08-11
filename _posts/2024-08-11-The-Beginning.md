@@ -8,7 +8,7 @@ tags: []
 
 ## Welcome!
 
-Ahoy and Ahoy! Welcome to the first blog post on the site :) This blog, and blogging in general was inspired by releasing I've been on the game dev journey for over 4 years and have almost no chronicle of what I was up to each month. I'll try my best to evolve this blog to include post mortems, monthly check-ins, and yearly roundups. 
+Ahoy and Ahoy! Welcome to the first blog post on the site :) This blog, and blogging in general was inspired by realising I've been on the game dev journey for over 4 years and have almost no chronicle of what I was up to each month. Special shoutout to [Tim Beaudet](https://www.timbeaudet.com), his archiving skills are like non-other. I'll try my best to evolve this blog to include post mortems, monthly check-ins, and yearly roundups. 
 
 Let's pretend today is **August 1st**, I'll write down some goals and we'll see how well they went next month. We'll do one of these on the 1st of every month. (Side note: imagine if it was easy as that. Just say you'll do something every month and end up doing it every month as planned)
 
