@@ -13,9 +13,10 @@ Ahoy and Ahoy! Welcome to the first blog post on the site :) This blog, and blog
 Let's pretend today is **August 1st**, I'll write down some goals and we'll see how well they went next month. We'll do one of these on the 1st of every month. (Side note: imagine if it was easy as that. Just say you'll do something every month and end up doing it every month as planned)
 
 ## Goals for August 2024
-  - [ ] Complete Do You Wanna Jam?! Jam
+  - [ ] Complete [Do You Wanna Jam?!](https://itch.io/jam/do-you-wanna-jam-2024) Jam
+  - [ ] Release [Charles the Bee](https://store.steampowered.com/app/2485090/Charles_the_Bee/) on Steam
   - [ ] Relax for a week (staycation)
-  - [ ] Release Charles the Bee on Steam, Itch and Newgrounds
+  - [ ] Update Charles, Release on Itch & Newgrounds
   - [ ] Release Android & iOS Pixel Fixel
   - [ ] Put stickers up all over town promoting Pixel Fixel
   - [ ] Promote the heck out Charles, achieving 50 reviews by the end of the month.
