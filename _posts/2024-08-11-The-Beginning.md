@@ -14,6 +14,7 @@ Let's pretend today is **August 1st**, I'll write down some goals and we'll see 
 
 ## Goals for August 2024
   - [ ] Complete Do You Wanna Jam?! Jam
+  - [ ] Relax for a week (staycation)
   - [ ] Release Charles the Bee on Steam, Itch and Newgrounds
   - [ ] Release Android & iOS Pixel Fixel
   - [ ] Put stickers up all over town promoting Pixel Fixel
