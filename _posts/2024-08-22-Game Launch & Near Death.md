@@ -27,7 +27,7 @@ It will cause a lot of introspection in the future... That's for sure!
 
 ## Anywho! I Launched a game!
 
-A few days ago, I pressed the release button on Charles the Bee! 
+A few days ago, I pressed the release button on [Charles the Bee](https://store.steampowered.com/app/2485090/Charles_the_Bee/)! 
 
 I knew I was launching the game in a rough state, but was prepared for some negative feedback. However, I was still displeased to see the negative reviews that started coming in....
 
