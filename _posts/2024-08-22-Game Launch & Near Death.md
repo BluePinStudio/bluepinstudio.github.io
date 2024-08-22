@@ -45,4 +45,6 @@ Also, here's another song that I've been listening to a lot lately. I liked post
 
 {% include embed/youtube.html id='HwG1Sl2Qz-0' %}
 
-{% include utterances.html %}
+## Comments & Reactions
+
+{% include discus.html %}

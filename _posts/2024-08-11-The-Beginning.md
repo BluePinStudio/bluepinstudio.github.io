@@ -43,4 +43,6 @@ Also, I figure I should shoutout a song I really like this month, maybe it'll be
 
 {% include embed/youtube.html id='SEXZai09LxI' %}
 
-{% include utterances.html %}
+## Comments & Reactions
+
+{% include discus.html %}

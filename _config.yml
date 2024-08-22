@@ -117,10 +117,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: BluePinStudio/bluepinstudio.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOMiDZHw
+    category: General
+    category_id: DIC_kwDOMiDZH84Ch3OT
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
