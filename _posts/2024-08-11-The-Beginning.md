@@ -21,7 +21,7 @@ Let's pretend today is **August 1st**, I'll write down some goals and we'll see 
   - [ ] Put stickers up all over town promoting Pixel Fixel
   - [ ] Promote the heck out Charles, achieving 50 reviews by the end of the month.
  
-![Desktop View](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2485090/ss_12962457758f788d1b85709821d97e99b49cd825.jpg?t=1722847235){: width="972" height="589" }
+![Desktop View](images/charlesscreenshot.jpg){: width="972" height="589" }
 _Charles the Bee Battling Pip tha God!_
 
 It's quite an ambitious month, but I have the utmost confidence all of these tasks will be done and dusted! I have a fantastic team for the game jam, I have a fantastic team for Charles, and the stickers are already in my hands!
