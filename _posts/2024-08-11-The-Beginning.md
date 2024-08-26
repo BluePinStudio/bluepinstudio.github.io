@@ -3,7 +3,7 @@ title: The Beginning
 description: First Monthly check in! August 2024
 date: 2024-08-11 08:00:00 -0400
 categories: [Monthly Check-in]
-tags: [Charles the Bee, Pixel Fixel, Game Jam, Marketing]
+tags: [charles the bee, pixel fixel, game jam, marketing]
 image: https://blog.bluepinstudio.com/images/timbo.PNG
 ---
 

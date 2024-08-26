@@ -3,7 +3,7 @@ title: Insock Out Post Mortem
 description: Post Mortem for my Wanna Jam game jam entry!
 date: 2024-08-25 19:00:00 -0400
 categories: [Jam Post Mortem]
-tags: [Insock Out, Post Mortem, Charles the Bee]
+tags: [insock out, post mortem, charles the bee]
 image: https://blog.bluepinstudio.com/images/insockout.png
 ---
 
