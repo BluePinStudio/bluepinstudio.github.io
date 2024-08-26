@@ -4,6 +4,7 @@ description: Game Launch & Near Death
 date: 2024-08-22 19:00:00 -0400
 categories: [Game Launch]
 tags: [Charles The Bee, Game Jam, Marketing,IRL]
+image: https://blog.bluepinstudio.com/images/timhortons.png
 ---
 
 ## Welcome!
