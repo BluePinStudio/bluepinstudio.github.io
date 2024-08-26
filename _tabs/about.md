@@ -7,19 +7,21 @@ order: 4
 Focused on creating memorable 2D video games. Indie game developers based in Toronto, Canada with help from collaborators from around the globe.
 
 Games Created so Far, in reverse chronological order:
-- Charles the Bee
-- Pixel Fixel
-- Sinful Scoops
-- Seth's Mysterious Portal
-- RAMPage
-- Devilivery
-- Charles the Bee (Jam version)
-- Panopticon
-- Blend Defend
-- Quadratorum
-- U49 Meltdown
-- Explory Story (Jam verison)
+- Explory Story (indev)
+- Charles the Bee (post-launch upgrade phase)
+- Insock Out (JAM)
+- Pixel Fixel (post-launch upgrade phase)
+- Sinful Scoops (JAM)
+- Seth's Mysterious Portal (JAM)
+- RAMPage (JAM)
+- Devilivery (JAM)
+- Charles the Bee (JAM)
+- Panopticon (JAM)
+- Blend Defend (JAM)
+- Quadratorum (JAM)
+- U49 Meltdown (JAM)
+- Explory Story (JAM)
 - Eggnog Incorporated
-- Imperial Eggnog Inc
-- Keep Dano Alive
-- Toaster Treasure
+- Imperial Eggnog Inc (JAM)
+- Keep Dano Alive (JAM)
+- Toaster Treasure (JAM)
