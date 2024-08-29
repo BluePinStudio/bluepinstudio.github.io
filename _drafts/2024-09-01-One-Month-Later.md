@@ -11,36 +11,43 @@ image: https://blog.bluepinstudio.com/images/charlescapsule.png
 
 Ahoy and Ahoy! Welcome to the second monthly check-in. Here are the goals I had for August, let's see how many I completed!  
 
-## Goals for August 2024
+## August 2024 Goals Completed
   - [x] Complete [Do You Wanna Jam?!](https://itch.io/jam/do-you-wanna-jam-2024) Jam
   - [x] Release [Charles the Bee](https://store.steampowered.com/app/2485090/Charles_the_Bee/) on Steam
   - [x] Relax for a week (staycation)
   - [x] Update Charles, Release on Itch & Newgrounds
-  - [x] Release Android & iOS Pixel Fixel
+  - [ ] Release Android & iOS Pixel Fixel
   - [ ] Put stickers up all over town promoting Pixel Fixel
   - [ ] Promote the heck out Charles, achieving 50 reviews by the end of the month.
- 
-![Charles the Bee Screenshot](https://blog.bluepinstudio.com/images/charlesscreenshot.jpg){: width="972" height="589" }
-_Charles the Bee Battling Pip tha God!_
 
-It's quite an ambitious month, but I have the utmost confidence all of these tasks will be done and dusted! I have a fantastic team for the game jam, I have a fantastic team for Charles, and the stickers are already in my hands!
+Regarding Pixel Fixel, the android version has been deployed, but I'm dragging my feet a little bit when it comes to the ios version. Lots of papers to fill out, lots of stuff to do on that front! Should be good to go in September tho!
 
+Regarding promoting the heck out of Charles and releasing Charles on Itch and Newgrounds... I didn't do these tasks because I realized the game was not in a good state to be shown off as much as possible. The early players of the game have pointed out a lot of flaws and I will be spending tons of time in the coming weeks addressing those flaws and improving the game.
 
-
-> Doing a game jam, while trying to launch a game, while doing a part time job, while getting ready for a vacation is not advised.
+> I almost didn't make it to this month. I talked about that in this post: <https://blog.bluepinstudio.com/posts/Game-Launch-&-Near-Death/>
 {: .prompt-danger } 
 
-A small hiccup regarding the plans is my vacation that is planned from Aug 14 to Aug 20. Girlfriend is coming into town and we're going to spend the week doing all sorts of fun touristy stuff!
 
+## Bonus Tasks Completed in August 2024
+  - [x] Added multiplayer and new arcade mode to Charles
+  - [x] Ran successful Pixel Fixel tournament
+
+In addition to the tasks I planned for myself in August, I have also completed work on Charles Multiplayer mode and had a Pixel Fixel tournament! The pixel fixel tournament was very successful and had the most participants out of all the tournaments I've run for Pixel Fixel thus far! Very nice bonus points!
+
+## Goals for September 2024
+  - [ ] Release Android & iOS Pixel Fixel
+  - [ ] Put stickers up all over town promoting Pixel Fixel
+  - [ ] Promote the heck out Charles, achieving 70 reviews by the end of the month.
+  - [ ] Release 6 new songs & new locations for Charles
+  - [ ] Post Charles to Itch & Steam Linux
+  - [ ] Redo Charles and Pixel Fixel steam pages to include gifs and fancy art inside the descriptions.
+    
 
 
 ## Footer & Personal Note
+The traditional of leaving myself a song continues! I hope I dont' look back at this selections and cringe. The phrase "if you aren't cringing at your past self, you aren't growing" comes to mind :P
 
-This is my first time doing a blog. The aim with these blogs is to maintain a communication with my future self. Undoubtedly I will be reading this in 2024 and 2025 and beyond. So i guess I should say "Hey future me! Hope all is well, hopefully everything worked out :)" 
-
-Also, I figure I should shoutout a song I really like this month, maybe it'll be a good nugget for my future self or any crazy people who read these...
-
-{% include embed/youtube.html id='SEXZai09LxI' %}
+{% include embed/youtube.html id='yNfeLLLbwy8' %}
 
 ## Comments & Reactions
 
