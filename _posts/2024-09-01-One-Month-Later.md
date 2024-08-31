@@ -52,9 +52,11 @@ In addition to the tasks I planned for myself in August, I have also completed w
 
 
 ## Footer & Personal Note
-The traditional of leaving myself a song continues! I hope I dont' look back at this selections and cringe. The phrase "if you aren't cringing at your past self, you aren't growing" comes to mind :P
+The traditional of leaving myself a song continues! I hope I don't look back at this selections and cringe. The phrase "if you aren't cringing at your past self, you aren't growing" comes to mind :P
 
-{% include embed/youtube.html id='yNfeLLLbwy8' %}
+Oh also, as an actual note for myself : good luck in September 2024 buddy! Related to what you check every morning.
+
+{% include embed/youtube.html id='hLDQ88vAhIs' %}
 
 ## Comments & Reactions
 
