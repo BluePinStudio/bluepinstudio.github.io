@@ -1,7 +1,7 @@
 ---
 title: One month later... (sort of)
 description: Monthly Check-in September 1st 2024
-date: 2024-09-01 07:00:00 -0400
+date: 2024-09-01 14:00:00 -0400
 categories: [Monthly Check-in]
 tags: [charles the bee, pixel fixel, insock out, game jam, marketing]
 image: https://blog.bluepinstudio.com/images/charlescapsule.png
