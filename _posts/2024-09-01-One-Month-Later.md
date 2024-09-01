@@ -56,7 +56,7 @@ The traditional of leaving myself a song continues! I hope I don't look back at 
 
 Oh also, as an actual note for myself : good luck in September 2024 buddy! Related to what you check every morning.
 
-{% include embed/youtube.html id='hLDQ88vAhIs' %}
+{% include embed/youtube.html id='ouCuyQI9pXc' %}
 
 ## Comments & Reactions
 
