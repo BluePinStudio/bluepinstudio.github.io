@@ -5,6 +5,7 @@ date: 2024-09-01 20:00:00 -0400
 categories: [Monthly Check-in]
 tags: [charles the bee, pixel fixel, insock out, game jam, marketing]
 image: https://blog.bluepinstudio.com/images/charlescapsule.png
+published : true
 ---
 
 ## Welcome!

@@ -5,6 +5,7 @@ date: 2024-08-11 08:00:00 -0400
 categories: [Monthly Check-in]
 tags: [charles the bee, pixel fixel, game jam, marketing]
 image: https://blog.bluepinstudio.com/images/timbo.PNG
+published : true
 ---
 
 ## Welcome!

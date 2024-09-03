@@ -5,6 +5,7 @@ date: 2024-08-25 19:00:00 -0400
 categories: [Jam Post Mortem]
 tags: [insock out, post mortem, charles the bee]
 image: https://blog.bluepinstudio.com/images/insockout.png
+published : true
 ---
 
 ## Introduction

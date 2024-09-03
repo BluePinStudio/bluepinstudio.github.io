@@ -5,6 +5,7 @@ date: 2024-08-22 19:00:00 -0400
 categories: [Game Launch]
 tags: [charles the bee, game jam, marketing, irl]
 image: https://blog.bluepinstudio.com/images/timhortons.png
+published : true
 ---
 
 ## Welcome!
