@@ -4,7 +4,7 @@ description: Monthly Check-in October 1st 2024
 date: 2024-10-01 07:00:00 -0400
 categories: [Monthly Check-in]
 tags: [charles the bee, pixel fixel, insock out, game jam, marketing]
-image: https://blog.bluepinstudio.com/images/charlescapsule.png
+image: https://blog.bluepinstudio.com/images/moodeng.png
 ---
 
 ## Welcome!
