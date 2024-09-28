@@ -62,3 +62,4 @@ Oh also, as an actual note for myself : good luck in September 2024 buddy! Relat
 ## Comments & Reactions
 
 {% include discus.html %}
+{% include subscribe.html %}

@@ -48,3 +48,4 @@ Also, I figure I should shoutout a song I really like this month, maybe it'll be
 ## Comments & Reactions
 
 {% include discus.html %}
+{% include subscribe.html %}

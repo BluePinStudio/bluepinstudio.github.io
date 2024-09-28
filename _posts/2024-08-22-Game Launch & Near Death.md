@@ -50,3 +50,4 @@ Also, here's another song that I've been listening to a lot lately. I liked post
 ## Comments & Reactions
 
 {% include discus.html %}
+{% include subscribe.html %}

@@ -45,3 +45,4 @@ Here's another song. This one is a bit raunchy in parts but I simply cannot resi
 ## Comments & Reactions
 
 {% include discus.html %}
+{% include subscribe.html %}
