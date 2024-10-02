@@ -29,7 +29,7 @@ As I  mentioned, not a lot accomplished! But I did manage some additional tasks 
 That's right! [Explory Story](http://explorystory.com/) is back on the menu! We're entering the series of sprints to complete the project after it being on the backburner for so long. Most news to come!
 
 ![Explory Story Game Logo](https://blog.bluepinstudio.com/images/explory.jpg){: width="972" height="589" }
-_The Toronto skyline at night, taken from a dinner cruise boat!_
+_Explory Story Steam Logo_
 
 ## Goals for October 2024
   - [ ] Complete Ludum Dare 56 game jam
