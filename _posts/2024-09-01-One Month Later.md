@@ -37,7 +37,6 @@ _The majestic Casa Loma castle in Toronto. Was some dude's house before the city
 I should expand on the Staycation I did as well. I went to all sorts of places around Toronto (the city I live in) with my girlfriend! We went to have dinner on a boat cruise, brunch in a castle, checked out the animals at the Zoo, checked out the yearly carnival that comes to town, some great food spots, and generally had an amazing adventure! This was my second time doing a staycation in Toronto and I think im running out of new things to experience. There's probably enough stuff for roughly 1 more of these!
 
 ## Bonus Tasks Completed in August 2024
-  - [x] Added multiplayer and new arcade mode to Charles
   - [x] Ran successful Pixel Fixel tournament
 
 In addition to the tasks I planned for myself in August, I have also completed work on Charles Multiplayer mode and had a Pixel Fixel tournament! The pixel fixel tournament was very successful and had the most participants out of all the tournaments I've run for Pixel Fixel thus far! Very nice bonus points!

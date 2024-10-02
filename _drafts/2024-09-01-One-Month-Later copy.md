@@ -1,41 +1,46 @@
 ---
 title: Moo Deng Tober!
 description: Monthly Check-in October 1st 2024
-date: 2024-10-01 07:00:00 -0400
+date: 2024-10-02 07:00:00 -0400
 categories: [Monthly Check-in]
-tags: [charles the bee, pixel fixel, insock out, game jam, marketing]
+tags: [charles the bee, pixel fixel, explory story, marketing]
 image: https://blog.bluepinstudio.com/images/moodeng.png
 ---
 
 ## Welcome!
 
-Ahoy and Ahoy! Welcome to the second monthly check-in. Here are the goals I had for August, let's see how many I completed!  
+We're back for a checkup! September was particularly rough for my personal life, so I didn't get a ton of gamedev stuff done. That's the trouble with trying to work on games as much as possible, you sometimes run out of money :P Any who! Here are the goals I posted for September (minus one of the goals, because it was an October goal accidentally included):
 
 ## September 2024 Goals Completed
   - [ ] Release Android & iOS Pixel Fixel
   - [ ] Put stickers up all over town promoting Pixel Fixel
   - [ ] Promote the heck out Charles, achieving 70 reviews by the end of the month.
-  - [ ] Release 6 new songs & new locations for Charles
   - [x] Post Charles to Itch & Steam Linux
   - [x] Redo Charles and Pixel Fixel steam pages to include gifs and fancy art inside the descriptions.
 
+As I  mentioned, not a lot accomplished! But I did manage some additional tasks that weren't planned:  
 
 ## Bonus Tasks Completed in September 2024
   - [x] Big refeactor to Charles, including new game modes
-  - [x] Ran successful Pixel Fixel tournament, again
-  - [x] Introduced the Blue Pin Super Fan bundle on Steam
-  - [x] Ran successful Pixel Fixel tournament, again
+  - [x] Launch Charles the Bee major update (includes arcade overhaul, new arcade mode, additional vfx, gameplay features and multiplayer)
+  - [x] Introduced the [Blue Pin Super Fan bundle](https://store.steampowered.com/bundle/45349/Blue_Pin_Super_Fan/) on Steam
+  - [x] Started up the Explory Story development process
 
+That's right! [Explory Story](http://explorystory.com/) is back on the menu! We're entering the series of sprints to complete the project after it being on the backburner for so long. Most news to come!
+
+![Explory Story Game Logo](https://blog.bluepinstudio.com/images/explory.jpg){: width="972" height="589" }
+_The Toronto skyline at night, taken from a dinner cruise boat!_
 
 ## Goals for October 2024
-  - [ ] Release Android & iOS Pixel Fixel
+  - [ ] Complete Ludum Dare 56 game jam
+  - [ ] Show off Charles the Bee, and Construct 3, at an in-person event as a speaker
+  - [ ] Refactor Explory Story game design and sprint planning for Launch in March 2025
+  - [ ] Finish iOS registration process and launch Pixel Fixel on ios!
   - [ ] Put stickers up all over town promoting Pixel Fixel
-  - [ ] Promote the heck out Charles, achieving 70 reviews by the end of the month.
-  - [ ] Release 6 new songs & new locations for Charles
-  - [ ] Post Charles to Itch & Steam Linux
-  - [ ] Redo Charles and Pixel Fixel steam pages to include gifs and fancy art inside the descriptions.
+  - [ ] Promote the heck out Charles, achieving 80 reviews by the end of the month.
+  - [ ] Prepare the new Charles the Bee content for launch in first week of November on Newgrounds & Steam
     
-
+October is going to be quite an assorted month, substantial work across three game projects! I'm confident I will have enough time, but I guess we'll see next month!
 
 ## Footer & Note to Future Self
 Here's another song. This one is a bit raunchy in parts but I simply cannot resist the vibe. I think I listened to it 50 times since I found it. Judge me if you want, but I think it's immaculate vibes.
