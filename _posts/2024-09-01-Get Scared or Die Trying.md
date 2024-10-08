@@ -1,7 +1,7 @@
 ---
 title: Moo Deng Tober!
 description: Monthly Check-in October 1st 2024
-date: 2024-10-02 07:00:00 -0400
+date: 2024-10-08 07:00:00 -0400
 categories: [Monthly Check-in]
 tags: [charles the bee, pixel fixel, explory story, marketing]
 image: https://blog.bluepinstudio.com/images/moodeng.png
@@ -15,14 +15,13 @@ We're back for a checkup! September was particularly rough for my personal life,
   - [ ] Release Android & iOS Pixel Fixel
   - [ ] Put stickers up all over town promoting Pixel Fixel
   - [ ] Promote the heck out Charles, achieving 70 reviews by the end of the month.
-  - [x] Post Charles to Itch & Steam Linux
-  - [x] Redo Charles and Pixel Fixel steam pages to include gifs and fancy art inside the descriptions.
+  - [ ] Post Charles to Itch & Steam Linux
+  - [ ] Redo Charles and Pixel Fixel steam pages to include gifs and fancy art inside the descriptions.
 
-As I  mentioned, not a lot accomplished! But I did manage some additional tasks that weren't planned:  
+As I  mentioned, not a lot accomplished out of the planned tasks (oops)! But I did manage some additional tasks that weren't planned:  
 
 ## Bonus Tasks Completed in September 2024
-  - [x] Big refeactor to Charles, including new game modes
-  - [x] Launch Charles the Bee major update (includes arcade overhaul, new arcade mode, additional vfx, gameplay features and multiplayer)
+  - [x] Big refeactor to Charles, including new game modes (not launched yet)
   - [x] Introduced the [Blue Pin Super Fan bundle](https://store.steampowered.com/bundle/45349/Blue_Pin_Super_Fan/) on Steam
   - [x] Started up the Explory Story development process
 
