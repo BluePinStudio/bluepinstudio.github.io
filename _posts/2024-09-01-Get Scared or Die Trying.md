@@ -25,7 +25,7 @@ As I  mentioned, not a lot accomplished out of the planned tasks (oops)! But I d
   - [x] Introduced the [Blue Pin Super Fan bundle](https://store.steampowered.com/bundle/45349/Blue_Pin_Super_Fan/) on Steam
   - [x] Started up the Explory Story development process
 
-That's right! [Explory Story](http://explorystory.com/) is back on the menu! We're entering the series of sprints to complete the project after it being on the backburner for so long. Most news to come!
+That's right! [Explory Story](https://explorystory.com/) is back on the menu! We're entering the series of sprints to complete the project after it being on the backburner for so long. Most news to come!
 
 ![Explory Story Game Logo](https://blog.bluepinstudio.com/images/explory.jpg){: width="972" height="589" }
 _Explory Story Steam Logo_
