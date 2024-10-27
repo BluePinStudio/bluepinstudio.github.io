@@ -1,7 +1,7 @@
 ---
 title: Save Nebuville Post Mortem
 description: Post Mortem for my 11th Ludum Dare game, "Save Nebuville"
-date: 2024-10-27 19:00:00 -0400
+date: 2024-10-27 15:00:00 -0400
 categories: [Jam Post Mortem]
 tags: [save nebuville, post mortem, game jam]
 image: https://blog.bluepinstudio.com/images/nebuville.png
