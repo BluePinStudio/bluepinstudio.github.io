@@ -65,7 +65,7 @@ I think my favorite part of the entire process was seeing a final product that w
 ![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/nebuville.gif){: width="972" height="589" }
 _Game in action!_
 
-**Final Game**: After a week of people playing the game we got our scores! We had X people leave ratings, and lots of comments as well. Here's a link to the scores and feedback! <https://ldjam.com/events/ludum-dare/56/save-nebuville>
+**Final Game**: After a week of people playing the game we got our scores! We had 41 people leave ratings, and lots of comments as well. Here's a link to the scores and feedback! <https://ldjam.com/events/ludum-dare/56/save-nebuville>
 
 We scored 189th in Fun, which marks the first time Fun was my best category since I started doing Ludum Dare 4 years ago. My fixation has been making fun games, so I think this is a big milestone! I'm aiming for my next game to be super high effort so we'll see If I can score highly in Fun again!
 
