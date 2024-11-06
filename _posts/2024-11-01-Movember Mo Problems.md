@@ -39,7 +39,6 @@ Hi peeps. Let's have a look at what goals I had! And then I'll tell you about my
 It's time to put the pedal to the metal and get those pesky lingering tasks done in November. Do tasks or die trying, amirite?
 
 ## Goals for November  2024
-  - [ ] Show off Charles the Bee, and Construct 3, at an in-person event as a speaker
   - [ ] Deal with the remaining iOS rejections and finally publish Pixel Fixel on iOS
   - [ ] Put stickers up all over town promoting Pixel Fixel
   - [ ] Promote the heck out Charles, achieving 80 reviews by the end of the month.
