@@ -11,7 +11,7 @@ published : true
 ## Welcome!
 Hi peeps. Let's have a look at what goals I had! And then I'll tell you about my second time in my life going to the hospital in an ambulance :O
 
-## October 2024 Goals Comepleted
+## October 2024 Goals Completed
   - [x] Complete Ludum Dare 56 game jam
   - [ ] Show off Charles the Bee, and Construct 3, at an in-person event as a speaker
   - [x] Refactor Explory Story game design and sprint planning for Launch in March 2025
