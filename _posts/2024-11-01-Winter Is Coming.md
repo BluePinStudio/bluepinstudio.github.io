@@ -4,7 +4,7 @@ description: Monthly Check-in December 1st 2024
 date: 2024-12-01 07:00:00 -0400
 categories: [Monthly Check-in]
 tags: [charles the bee, pixel fixel, explory story, marketing, game jam, project jig]
-image: https://blog.bluepinstudio.com/images/pixleocean.png
+image: https://blog.bluepinstudio.com/images/pixelocean.png
 published : true
 ---
 
