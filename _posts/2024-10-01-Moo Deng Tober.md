@@ -45,6 +45,7 @@ October is going to be quite an assorted month, substantial work across three ga
 Here's another song. This one is a bit raunchy in parts but I simply cannot resist the vibe. I think I listened to it 50 times since I found it. Judge me if you want, but I think it's immaculate vibes.
 
 {% include embed/youtube.html id='9zdLh_QTRns' %}
+_I Keep Failling by Sal Houdini_
 
 ## Comments & Reactions
 
