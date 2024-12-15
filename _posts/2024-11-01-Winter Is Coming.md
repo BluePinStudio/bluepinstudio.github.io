@@ -8,7 +8,7 @@ image: https://blog.bluepinstudio.com/images/pixelocean.png
 published : true
 ---
 
-## Welcome!!
+## Welcome!
 Hi peeps. Let's have a look at what goals I had for myself in November 2024 and which ones I completed!
 
 ## November 2024 Goals Completed
@@ -18,7 +18,7 @@ Hi peeps. Let's have a look at what goals I had for myself in November 2024 and 
   - [ ] Launch the additional new Charles the Bee content
   - [ ] Sign a contract with a publisher for Project Jig
 
-Not bad at all! Finally got the stuff started with Apple. When people told me that publishing on ios would be difficult, i scoffed, how difficult could it be?! Turns out it involves arguing back and forth and sending multiple builds to Apple. In my case it involved sending a new build or answering a new question they posed **60** times! 
+Not bad at all! Finally got the stuff storted with Apple. When people told me that publishing on ios would be difficult, i scoffed, how difficult could it be?! Turns out it involves arguing back and forth and sending multiple builds to Apple. In my case it involved sending a new build or answering a new question they posed **60** times! 
 
 > Waking up with a new rejection from Apple every morning for an entire month can be a frustrating way to start the day!
 {: .prompt-warning } 
