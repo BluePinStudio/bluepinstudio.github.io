@@ -16,45 +16,51 @@ During the [Yogscast Jingle Jam](https://itch.io/jam/jinglegamejam2024) game jam
 
 ## Timeline
 
-- **Pre-Jam:** 
+### Pre-Jam
 Getting the team set up in google drive, getting hyped and getting ready to brainstorm. Despite knowing the theme in advance due to Yogscast sharing it to us early, we wanted to wait until the jam starts to brainstorm the game designs. This way we can start creating assets and prototypes without accidentally working prior to the jam starting.
 
-- **Day 1 (Sunday):** 
+### The first half...
 Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 ![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf1.png){: width="972" height="589" }
 _First bespoke piece of artwork done towards the final product_
 
-
-- **Day 2 (Monday):** 
-More work was committed to planning the upgrades, the images, and most importantly, the menus!
+Over the next few days we spent a lot of time getting the basics down. A functional web build using asteroids-like mechanics, some mockups for HUDs and menus.
 
 ![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf3.png){: width="972" height="589" }
 _Working on the menus_
 
-- **Day 3 (Tuesday):** 
-Between battling with Itch outages and revising all of the HUD/Menu assets, we push forward!
+We spent a bunch of time battling with Itch outages and revising all of the HUD/Menu assets.
 
-
-- **Day 4 (Wednesday):** 
-We finally have a near-final version of the title screen and some fantastic animations for the hands. Look at them go!
+Right at the end of the first half, we have a near-final version of the title screen and some fantastic animations for the hands. Look at them go! This was the day one of our artists, PixelPigeon, started feeling sick. That spooked the heck out of me! Losing an artist halfway through the process would've caused us to cut down the scope dramatically.
 
 ![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf1.gif){: width="972" height="589" }
-_Working on the menus_
+_The laptop is mostly done!_
 
-- **Day 5 (Thursday):** 
+### The second half...
+Onwards, we started refining the game systems. We had so many google docs for potential upgrades. Some of the upgrades that didn't make the cut are :
+- **Backshot upgrade**	
+    - When player shoots, shoots an additional bullet behind them simutaniously. Does not consume any additional ammo 
+- **Hardhead upgrade**	
+    - Player now damages asteroids when they bump into them (but still takes damage)
+- **Stickers upgrade**	
+    - Adds a sticker to your laptop (permanant)
+- **Fez (hat) upgrade**	
+    - Gives your possum a pretty hat
+- **Gassy upgrade**	
+    - Eat trash to gain a small amount of fuel
+- **Beans**	
+    - Drops a fart cloud every X seconds that breaks trash.  dissapears after awhile
+- **Space Roombas**	
+    - 2 Roombas circle around the player hitting trashteroids and cleaning small trash should have health
+
 Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
-- **Day 6 (Friday):** 
 Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
-- **Day 7 (Saturday):** 
 Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
-- **Day 8 (Sunday):** 
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
-
-- **Post-Jam:** 
+### Post-Jam:
 Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 ## What Went Well
