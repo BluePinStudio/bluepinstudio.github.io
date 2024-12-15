@@ -17,38 +17,49 @@ During the [Yogscast Jingle Jam](https://itch.io/jam/jinglegamejam2024) game jam
 ## Timeline
 
 - **Pre-Jam:** 
-abc
+Getting the team set up in google drive, getting hyped and getting ready to brainstorm. Despite knowing the theme in advance due to Yogscast sharing it to us early, we wanted to wait until the jam starts to brainstorm the game designs. This way we can start creating assets and prototypes without accidentally working prior to the jam starting.
 
 - **Day 1 (Sunday):** 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
+
+![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf1.png){: width="972" height="589" }
+_First bespoke piece of artwork done towards the final product_
+
 
 - **Day 2 (Monday):** 
-abc
+More work was committed to planning the upgrades, the images, and most importantly, the menus!
+
+![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf3.png){: width="972" height="589" }
+_Working on the menus_
 
 - **Day 3 (Tuesday):** 
-abc
+Between battling with Itch outages and revising all of the HUD/Menu assets, we push forward!
+
 
 - **Day 4 (Wednesday):** 
-abc
+We finally have a near-final version of the title screen and some fantastic animations for the hands. Look at them go!
+
+![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf1.gif){: width="972" height="589" }
+_Working on the menus_
 
 - **Day 5 (Thursday):** 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 - **Day 6 (Friday):** 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 - **Day 7 (Saturday):** 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 - **Day 8 (Sunday):** 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 - **Post-Jam:** 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 ## What Went Well
 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 - **Comment from Mike (Artist)**: We created a concept that was a modern twist on an oldschool classic. I came in with this being an experiment of what we could do with a small idea, and it went really well
 - **Comment from PixelPigeon (Artist)**: We had a good amount of time to work on this project and the team was able come together on the vision quite quickly. The programmers experience in game jams was definitely helpful.
@@ -57,7 +68,7 @@ abc
 
 ## Challenges
 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 - **Comment from Mike (Artist)**: Main challenge was just staying on top of documents. We were a new team for each other so everyone had a slightly different way of communicating.
 - **Comment from PixelPigeon (Artist)**: I got friggin COVID midway through and it sucked.
@@ -66,7 +77,7 @@ abc
 
 ## The Final Product
 
-abc
+Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 - **Comment from Mike (Artist)**: Felt great about the outcome. We were only a few submissions shy of not even being seen on the livestream, and had that happened we would not have even won an award or had such great soundbites about what we made. Was very worth it in the end
 - **Comment from PixelPigeon (Artist)**: Hey I just wanted to make a cool game with a team quickly and we did.
