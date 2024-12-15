@@ -8,7 +8,7 @@ image: https://blog.bluepinstudio.com/images/pixelocean.png
 published : true
 ---
 
-## Welcome!
+## Welcome!!
 Hi peeps. Let's have a look at what goals I had for myself in November 2024 and which ones I completed!
 
 ## November 2024 Goals Completed
