@@ -69,7 +69,7 @@ Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everythi
 
 - **Comment from Mike (Artist)**: We created a concept that was a modern twist on an oldschool classic. I came in with this being an experiment of what we could do with a small idea, and it went really well
 - **Comment from PixelPigeon (Artist)**: We had a good amount of time to work on this project and the team was able come together on the vision quite quickly. The programmers experience in game jams was definitely helpful.
-- **Comment from RedCocoa (Musician)**: abc
+- **Comment from RedCocoa (Musician)**: I found a general theme for the music incredibly fast. This usually takes a few approaches but this time the first thing I tried almost always ended up being what we used. This is true for both music tracks and almost all sound effects. Additionally, I usually somewhat rely on samples when creating sound effects but this time I set myself the personal challenge to use them very little, instead making almost all sounds from synthesizers or edited vocal recordings which worked incredibly well in the game context.
 
 
 ## Challenges
@@ -78,7 +78,7 @@ Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everythi
 
 - **Comment from Mike (Artist)**: Main challenge was just staying on top of documents. We were a new team for each other so everyone had a slightly different way of communicating.
 - **Comment from PixelPigeon (Artist)**: I got friggin COVID midway through and it sucked.
-- **Comment from RedCocoa (Musician)**: abc
+- **Comment from RedCocoa (Musician)**: Unfortunately I had a personal emergency happening right at the beginning of the game jam so I was unable to really contribute anything to the game until Wednesday. This means that most of the game design was already done at this point and I had a full spreadsheet of sound descriptions to work through. I would have liked to be more involved in the early stages of the game but personal emergencies seldom take your game jam schedule into account.
 
 
 ## The Final Product
@@ -87,7 +87,7 @@ Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everythi
 
 - **Comment from Mike (Artist)**: Felt great about the outcome. We were only a few submissions shy of not even being seen on the livestream, and had that happened we would not have even won an award or had such great soundbites about what we made. Was very worth it in the end
 - **Comment from PixelPigeon (Artist)**: Hey I just wanted to make a cool game with a team quickly and we did.
-- **Comment from RedCocoa (Musician)**: abc
+- **Comment from RedCocoa (Musician)**: I am unbelievably proud of this game already. It looks, sounds and plays incredibly and the potential it has with a few updates, more polishing and more content is something I would love to explore further. I am very satisfied with my contribution but there is no part of this game that doesn't play, look, sound or feel incredibly polished. I'm excited to see where we can take this in the future.
 
 
 
