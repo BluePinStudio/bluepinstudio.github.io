@@ -89,6 +89,8 @@ The challenges in organizing and creating this project weren't super atypical. I
 
 
 ## Reception
+![Ribbon Yogscast Gave Us](https://blog.bluepinstudio.com/images/JingleGameJamRosette3.png){: width="972" height="589" }
+_Ribbon Yogscast Gave Us!_
 
 **Final Game**: We had 150 people leave try it out and leave lots of comments as well. This jam didn't have a rating period where fellow jammers played our game so there were no scores. HOWEVER! We did get our game featured on the Yogscast stream where Lewis, Pedguin and Jennifer played our game and loved it!
 
