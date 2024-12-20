@@ -1,7 +1,7 @@
 ---
 title: Trash Force Post Mortem
 description: Post Mortem for "Trash Force"
-date: 2024-12-16 09:00:00 -0400
+date: 2024-12-20 07:00:00 -0400
 categories: [Jam Post Mortem]
 tags: [trash force, post mortem, game jam]
 image: https://blog.bluepinstudio.com/images/trashforce.png
@@ -22,19 +22,19 @@ Getting the team set up in google drive, getting hyped and getting ready to brai
 ### The first half...
 Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
-![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf1.png){: width="972" height="589" }
+![Trash Force Screenshot 1](https://blog.bluepinstudio.com/images/tf1.png){: width="972" height="589" }
 _First bespoke piece of artwork done towards the final product_
 
 Over the next few days we spent a lot of time getting the basics down. A functional web build using asteroids-like mechanics, some mockups for HUDs and menus.
 
-![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf3.png){: width="972" height="589" }
+![Trash Force Screenshot 3](https://blog.bluepinstudio.com/images/tf3.png){: width="972" height="589" }
 _Working on the menus_
 
 We spent a bunch of time battling with Itch outages and revising all of the HUD/Menu assets.
 
 Right at the end of the first half, we have a near-final version of the title screen and some fantastic animations for the hands. Look at them go! This was the day one of our artists, PixelPigeon, started feeling sick. That spooked the heck out of me! Losing an artist halfway through the process would've caused us to cut down the scope dramatically.
 
-![Nebuville Prototype Mockup](https://blog.bluepinstudio.com/images/tf1.gif){: width="972" height="589" }
+![Trash Force Screenshot 4](https://blog.bluepinstudio.com/images/tf1.gif){: width="972" height="589" }
 _The laptop is mostly done!_
 
 ### The second half...
@@ -54,27 +54,25 @@ Onwards, we started refining the game systems. We had so many google docs for po
 - **Space Roombas**	
     - 2 Roombas circle around the player hitting trashteroids and cleaning small trash should have health
 
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
+There wasn't much crunch in the final days or hours of the jam. Everything came in steadily until... One day before we had to submit the game we realised that our intro cutscene was dead silent. I put the battle music overtop the cutscene and it sound good at all (go figure). I messaged RedCocoa that I was going to sleep but we have no audio in the cutscene. He spent the next few hours manually creating a musical score for the entire 1+ minute cutscene. When i woke up in the morning the final piece of the puzzle was done, and all that was remaining are last minute tweaks to the upgrades, interfaces, adding an option menu, etc.
 
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
 
 ### Post-Jam:
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
+Unlike most jams I participate in, there was nothing left to do in the post-jam. What I mean by that is, most jams have a rating period where participants rate eachothers game. This jam didn't have that. Which means the only official business left was wait for the Yogscast Stream where they played the top games and announced the winners...
 
 ## What Went Well
-
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
+Everything! All aspects of the game jam turned out great. The pipeline for delivering and implementing assets was smooth and we hardly needed any revisions on graphics or audio.
 
 - **Comment from Mike (Artist)**: We created a concept that was a modern twist on an oldschool classic. I came in with this being an experiment of what we could do with a small idea, and it went really well
 - **Comment from PixelPigeon (Artist)**: We had a good amount of time to work on this project and the team was able come together on the vision quite quickly. The programmers experience in game jams was definitely helpful.
 - **Comment from RedCocoa (Musician)**: I found a general theme for the music incredibly fast. This usually takes a few approaches but this time the first thing I tried almost always ended up being what we used. This is true for both music tracks and almost all sound effects. Additionally, I usually somewhat rely on samples when creating sound effects but this time I set myself the personal challenge to use them very little, instead making almost all sounds from synthesizers or edited vocal recordings which worked incredibly well in the game context.
 
+![Trash Force Screenshot 2](https://blog.bluepinstudio.com/images/tf2.png){: width="972" height="589" }
+_Early screenshot before we finalized the UI_
 
 ## Challenges
-
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
+The challenges in organizing and creating this project weren't super atypical. It's more of the same stuff you could expect from any game jam. Honestly, it was probably less challenging than most of the jams that I do because I had the pleasure of working with such talented people, and such a long time to make the game. There were a few moments where I was scared people would disappear, like when PixelPigeon told me he was sick, or when RedCocoa didn't submit anything for the first few days. It all worked out in the end, and my fears never materialized into reality.
 
 - **Comment from Mike (Artist)**: Main challenge was just staying on top of documents. We were a new team for each other so everyone had a slightly different way of communicating.
 - **Comment from PixelPigeon (Artist)**: I got friggin COVID midway through and it sucked.
@@ -82,8 +80,7 @@ Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everythi
 
 
 ## The Final Product
-
-Noon on a Sunday, we got on a call and begin pitching ideas. We pitched everything from Plants vs Zombies to Chicken Invaders, to Asteroids, to retro driving and racing games. We started working through all the technical details of the game such as the resolution, art styles, and things we specifically wanted to avoid. By the time the night came around, we managed to narrow it down to an Asteroids-like with tons of upgrades that cost money. 
+140+ Hours later, the team sat down and finally relaxed. I can't say if thats the case for the rest of the team, but it was the most amount of time I've ever spent on a game jam submission. I was programming, refining, playtesting for probably 50-60hrs in the span of those 7 days. The effort on all of our parts paid off! This is the most well rounded and polished game I have ever made for a game jam. One small commentary I can make about the final product that I didn't like was how much negative sentiment there was about the "authentically asteroids" movement system we implemented. I would've thought that mimicking the movement that was present in Asteroids is exactly what the doctor ordered, but the players said otherwise. All well!
 
 - **Comment from Mike (Artist)**: Felt great about the outcome. We were only a few submissions shy of not even being seen on the livestream, and had that happened we would not have even won an award or had such great soundbites about what we made. Was very worth it in the end
 - **Comment from PixelPigeon (Artist)**: Hey I just wanted to make a cool game with a team quickly and we did.
@@ -99,7 +96,7 @@ They loved it so much that they awarded us Best Visual Design out of all games t
 
 
 Have a look at the judge's reaction to our game!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FZmgG4E4SsU?si=vidNBeH7H0OYc3PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/FZmgG4E4SsU?si=vidNBeH7H0OYc3PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Links
