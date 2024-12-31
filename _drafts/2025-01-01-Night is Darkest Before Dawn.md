@@ -24,7 +24,15 @@ Not bad at all! Finally got the stuff storted with Apple. When people told me th
 
 
 ## Bonus Tasks Completed in November 2024
+  - [x] Got featured on Apple's "Games We Love"
 
+![Apple's Games We Love](https://blog.bluepinstudio.com/images/GamesWeLove.png){: width="700" height="700" }
+_Pixel Fixel appearing on Apple's New Games We Love_  
+
+Needless to say, getting featured by Apple has a massive effect on player numbers. Check out the last few months of Pixel Fixel players!  
+
+![pixel fixel player chart 2](https://blog.bluepinstudio.com/images/pixelstats2.png){: width="700" height="700" }
+_Chart showing how many people played Pixel Fixel for the first time in October versus November 2024 versus December 2024._
 
 ## January 2025 Goals 
   - [ ] wasd
