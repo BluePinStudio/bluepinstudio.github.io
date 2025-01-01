@@ -1,6 +1,6 @@
 ---
 title: Night is Darkest Before Dawn
-description: Monthly Check-in January 1st 2024
+description: Monthly Check-in January 1st 2025
 date: 2025-01-01 06:00:00 -0400
 categories: [Monthly Check-in]
 tags: [charles the bee, pixel fixel, marketing, project jig]
