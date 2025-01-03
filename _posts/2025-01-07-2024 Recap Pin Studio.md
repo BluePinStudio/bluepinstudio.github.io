@@ -51,6 +51,11 @@ If i had to sum up the year for Blue Pin Studio, it was the best year to-date! I
 
 Remember folks, if you're having a hard time, its natural to want to recede into the shadows and push people away. Try your best to avoid that and instead lean on people. Most of us has tons of people who want to help. Let them!
 
+I'll leave you with this amazing fan art i got as a secret santa gift! It has references to most Blue Pin Studio games in it, very cool! :)
+
+![blue pin studio fan art](https://blog.bluepinstudio.com/images/fanart.jpg){: width="700" height="700" }
+_Chart showing how many people played Pixel Fixel for the first time in October versus November 2024 versus December 2024._
+
 ## Comments & Reactions
 
 {% include discus.html %}
